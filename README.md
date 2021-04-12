@@ -13,7 +13,7 @@ It's a full system , writed in Reactjs, with Typescript and Hooks, using TDD, cl
 <br/>
 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="TDD" src="https://img.shields.io/badge/TDD-{?style=for-the-badge&logo=testing-library&logoColor=black" />
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ## Installing
 
