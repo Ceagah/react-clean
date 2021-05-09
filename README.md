@@ -1,30 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# Hello ! This is my React-clean lesson !
-
-Created with React, to step up my dev Life !
-
-It's a full system , writed in Reactjs, with Typescript and Hooks, using TDD, clean archtecture, Design Patters and SOLID.
-
-<br />
-
-# About the techs that i used.
-
-<br/>
-
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-## Installing
-
-After you download this repo, you can run :
-
-`Npm install`
-
-This will install the dependences at the package.json archive.
-When it install all dependences, you neeed to run :
-
-`npm start`[![Build Status](https://travis-ci.org/rmanguinho/clean-react.svg?branch=master)](https://travis-ci.org/rmanguinho/clean-react)
+[![Build Status](https://travis-ci.org/rmanguinho/clean-react.svg?branch=master)](https://travis-ci.org/rmanguinho/clean-react)
 [![Coverage Status](https://coveralls.io/repos/github/rmanguinho/clean-react/badge.svg?branch=master)](https://coveralls.io/github/rmanguinho/clean-react?branch=master)
 [![Known Vulnerabilities](https://snyk.io/test/github/rmanguinho/clean-react/badge.svg)](https://snyk.io/test/github/rmanguinho/clean-react)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
